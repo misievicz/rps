@@ -11,8 +11,7 @@ body {
     flex-direction: column;
     place-items: center;
     height: 98vh;
-    margin: 0;
-    border: solid 1px;
+    margin: 0;   
     font-family: 'Special ELite', cursive;
 }
 

@@ -4,13 +4,8 @@ function getComputerChoice() {
   return myArray[~~(Math.random() * myArray.length)];
 }
 
-
 let playerScore = 0;
 let computerScore = 0;
-
-// function getPlayerChoice(item) {
-//   return item;
-// } 
 
 function disableButtons() {
   buttons.forEach((item) => {
